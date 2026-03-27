@@ -40,7 +40,7 @@ function Footer() {
                         <h6 className="font-medium uppercase mb-2">Get In Touch</h6>
                         <ul className=''>
                             <li className="mb-1">
-                                <a href='https://www.google.com/maps/place/8261+BL+Kampen,+Netherlands/@52.5606027,5.9121147,524m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47c878835140f917:0xf5f7eb33893f6929!8m2!3d52.560015!4d5.9143825!16s%2Fg%2F1thz0xvh' className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" target="_blank">Karpersteeg 19-01 Kamer 3 8261 BL Kampen, Netherlands</a>
+                                <a href='https://www.google.com/maps/place/21+Marnham+St,+Acacia+Ridge+QLD+4110,+Australia/@-27.5848860,153.0281520,17z' className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" target="_blank">21 Marnham Street Acacia Ridge QLD 4110 Australia</a>
                             </li>
                             <li className="mb-1">
                                 <a className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" href="mailto:info@universalvirtualsupport.com">info@universalvirtualsupport.com</a>
@@ -49,7 +49,7 @@ function Footer() {
                                 <a className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" href="mailto:Assistance@universalvirtualsupport.com">Assistance@universalvirtualsupport.com</a>
                             </li>
                             <li className="mb-1">
-                                <a className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" href="tel:+1 (234) 900-0549">+1 (234) 900-0549</a>
+                                <a className="text-gray-600 dark:text-gray-400 hover:underline transition duration-150 ease-in-out" href="tel:+61 468 769 214">+61 468 769 214</a>
                             </li>
                         </ul>
                     </div>
